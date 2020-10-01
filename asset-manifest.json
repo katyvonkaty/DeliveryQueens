@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/katyvonkaty/DeliveryQueens/static/css/main.4f12aca3.chunk.css",
+    "main.js": "/katyvonkaty/DeliveryQueens/static/js/main.72f224b5.chunk.js",
+    "main.js.map": "/katyvonkaty/DeliveryQueens/static/js/main.72f224b5.chunk.js.map",
+    "runtime-main.js": "/katyvonkaty/DeliveryQueens/static/js/runtime-main.f98c1326.js",
+    "runtime-main.js.map": "/katyvonkaty/DeliveryQueens/static/js/runtime-main.f98c1326.js.map",
+    "static/css/2.a9a8be40.chunk.css": "/katyvonkaty/DeliveryQueens/static/css/2.a9a8be40.chunk.css",
+    "static/js/2.ab864f2f.chunk.js": "/katyvonkaty/DeliveryQueens/static/js/2.ab864f2f.chunk.js",
+    "static/js/2.ab864f2f.chunk.js.map": "/katyvonkaty/DeliveryQueens/static/js/2.ab864f2f.chunk.js.map",
+    "index.html": "/katyvonkaty/DeliveryQueens/index.html",
+    "precache-manifest.e8a01dfe98f57c336aca23861daf6c2b.js": "/katyvonkaty/DeliveryQueens/precache-manifest.e8a01dfe98f57c336aca23861daf6c2b.js",
+    "service-worker.js": "/katyvonkaty/DeliveryQueens/service-worker.js",
+    "static/css/2.a9a8be40.chunk.css.map": "/katyvonkaty/DeliveryQueens/static/css/2.a9a8be40.chunk.css.map",
+    "static/css/main.4f12aca3.chunk.css.map": "/katyvonkaty/DeliveryQueens/static/css/main.4f12aca3.chunk.css.map",
+    "static/js/2.ab864f2f.chunk.js.LICENSE.txt": "/katyvonkaty/DeliveryQueens/static/js/2.ab864f2f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/katyvonkaty/DeliveryQueens/static/media/cookies.0363568e.jpg",
+    "static/media/item1.jpg": "/katyvonkaty/DeliveryQueens/static/media/item1.a6b4aa8a.jpg",
+    "static/media/item2.jpg": "/katyvonkaty/DeliveryQueens/static/media/item2.92d9f7cb.jpg",
+    "static/media/item3.jpg": "/katyvonkaty/DeliveryQueens/static/media/item3.6c1e99df.jpg",
+    "static/media/item4.jpg": "/katyvonkaty/DeliveryQueens/static/media/item4.aa6a89ac.jpg",
+    "static/media/item5.jpg": "/katyvonkaty/DeliveryQueens/static/media/item5.b48f4c36.jpg",
+    "static/media/item6.jpg": "/katyvonkaty/DeliveryQueens/static/media/item6.24176575.jpg",
+    "static/media/item7.jpg": "/katyvonkaty/DeliveryQueens/static/media/item7.958927fb.jpg",
+    "static/media/item8.jpg": "/katyvonkaty/DeliveryQueens/static/media/item8.31cb7c8e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f98c1326.js",
+    "static/css/2.a9a8be40.chunk.css",
+    "static/js/2.ab864f2f.chunk.js",
+    "static/css/main.4f12aca3.chunk.css",
+    "static/js/main.72f224b5.chunk.js"
+  ]
+}
